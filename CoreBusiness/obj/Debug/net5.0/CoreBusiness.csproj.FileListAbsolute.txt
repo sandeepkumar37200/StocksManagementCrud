@@ -1,0 +1,12 @@
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\bin\Debug\net5.0\CoreBusiness.deps.json
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\bin\Debug\net5.0\ref\CoreBusiness.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\obj\Debug\net5.0\CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\obj\Debug\net5.0\CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\obj\Debug\net5.0\CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\obj\Debug\net5.0\CoreBusiness.AssemblyInfo.cs
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\obj\Debug\net5.0\CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\obj\Debug\net5.0\CoreBusiness.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\obj\Debug\net5.0\ref\CoreBusiness.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\CoreBusiness\obj\Debug\net5.0\CoreBusiness.pdb

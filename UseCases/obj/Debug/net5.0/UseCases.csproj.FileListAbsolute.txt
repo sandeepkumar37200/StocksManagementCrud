@@ -1,0 +1,15 @@
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\obj\Debug\net5.0\UseCases.csproj.AssemblyReference.cache
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\obj\Debug\net5.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfoInputs.cache
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfo.cs
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\obj\Debug\net5.0\UseCases.csproj.CoreCompileInputs.cache
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\bin\Debug\net5.0\UseCases.deps.json
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\bin\Debug\net5.0\UseCases.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\bin\Debug\net5.0\ref\UseCases.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\bin\Debug\net5.0\UseCases.pdb
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\obj\Debug\net5.0\UseCases.csproj.CopyComplete
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\obj\Debug\net5.0\UseCases.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\obj\Debug\net5.0\ref\UseCases.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\UseCases\obj\Debug\net5.0\UseCases.pdb

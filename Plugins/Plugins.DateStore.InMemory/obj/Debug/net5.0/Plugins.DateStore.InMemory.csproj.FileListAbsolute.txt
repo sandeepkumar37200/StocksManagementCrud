@@ -1,0 +1,17 @@
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\obj\Debug\net5.0\Plugins.DateStore.InMemory.csproj.AssemblyReference.cache
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\obj\Debug\net5.0\Plugins.DateStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\obj\Debug\net5.0\Plugins.DateStore.InMemory.AssemblyInfoInputs.cache
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\obj\Debug\net5.0\Plugins.DateStore.InMemory.AssemblyInfo.cs
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\obj\Debug\net5.0\Plugins.DateStore.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\bin\Debug\net5.0\Plugins.DateStore.InMemory.deps.json
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\bin\Debug\net5.0\Plugins.DateStore.InMemory.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\bin\Debug\net5.0\ref\Plugins.DateStore.InMemory.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\bin\Debug\net5.0\Plugins.DateStore.InMemory.pdb
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\bin\Debug\net5.0\UseCases.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\bin\Debug\net5.0\UseCases.pdb
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\obj\Debug\net5.0\Plugins.DateStore.InMemory.csproj.CopyComplete
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\obj\Debug\net5.0\Plugins.DateStore.InMemory.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\obj\Debug\net5.0\ref\Plugins.DateStore.InMemory.dll
+C:\Users\sandeep03\source\repos\StocksAnalysis\StocksAnalysis\Plugins\Plugins.DateStore.InMemory\obj\Debug\net5.0\Plugins.DateStore.InMemory.pdb
